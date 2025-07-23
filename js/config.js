@@ -114,7 +114,7 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-         ckzy: {
+    ckzy: {
          api: 'https:www.ckzy1.com',
          name: 'CK资源',
      },
@@ -147,18 +147,7 @@ const API_SITES = {
          api: 'https:yutuzy10.com',
          name: '玉兔资源',
      },
-     subo: {
-        api: 'https://subocaiji.com/api.php/provide/vod',
-        name: '速播资源'
-     },
-     fczy: {
-       api: 'https://api.fczy888.me/api.php/provide/vod',
-        name: '蜂巢资源'
-     },
-     ukzy: {
-         api: 'https://api.ukuapi88.com/api.php/provide/vod',
-         name: 'U酷资源'
-     },
+
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
